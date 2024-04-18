@@ -17,7 +17,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../../Core/*.ts"
+    "public/Core/*.ts"
   ],
   "exclude": [
     "node_modules",
